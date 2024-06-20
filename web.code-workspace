@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../web"
+		},
+		{
+			"path": "../../EstrD2024s1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../landing"
+		},
+		{
+			"path": "../../landing"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landing"
+	}
+}
