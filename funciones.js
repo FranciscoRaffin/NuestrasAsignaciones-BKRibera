@@ -45,8 +45,7 @@ function fechaEspecial(fecha) {
     } else if (["LUNES 24/06","MARTES 25/06","MIERCOLES 26/06"].includes(fecha)) {
         return " 🍔 STACKER DAY 🍔"
     } else return ""
-
-    
+   
 }
 
 async function mostrarAsignacionesPorDia() {
